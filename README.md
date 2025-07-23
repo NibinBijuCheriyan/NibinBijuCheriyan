@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
- <img src="https://streak-stats.demolab.com/?user=NibinBijuCheriyan)](https://git.io/streak-stats)" alt="GitHub Streak Stats">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NibinBijuCheriyan" alt="GitHub Streak" /></a>
 </div>
 
 ## 🚀 About Me
