@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=NibinBijuCheriyan)](https://git.io/streak-stats)" alt="GitHub Streak Stats">
+ < "[![GitHub Streak](https://streak-stats.demolab.com/?user=NibinBijuCheriyan)](https://git.io/streak-stats)" alt="GitHub Streak Stats">
 </div>
 
 ## 🚀 About Me
