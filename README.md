@@ -41,6 +41,8 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E)
 ![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![Zoho](https://img.shields.io/badge/Tool-Zoho-informational?style=flat&logo=zoho&logoColor=white&color=E61D2B)
+![n8n](https://img.shields.io/badge/Tool-n8n-informational?style=flat&logo=n8n&logoColor=white&color=EF6C00)
 
 
 >
