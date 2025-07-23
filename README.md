@@ -12,7 +12,7 @@
 </p>
 </div>
 
-## 🚀 About Me
+##  About Me
 
 ```python
 class Developer:
@@ -30,7 +30,7 @@ me = Developer()
 me.say_hi()
 ```
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 <!-- Programming Languages -->
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
@@ -43,14 +43,14 @@ me.say_hi()
 ![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NibinBijuCheriyan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibinBijuCheriyan&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
   <a href="https://github.com/NibinBijuCheriyan/project1">
@@ -61,14 +61,14 @@ me.say_hi()
   </a>
 </div>
 
-## 🎯 Current Goals
+##  Current Goals
 
-- 🔭 Working on expanding my project portfolio
-- 🌱 Learning new technologies and frameworks
-- 👯 Looking to collaborate on open source projects
-- 💬 Always open to interesting discussions about technology
+-  Working on expanding my project portfolio
+-  Learning new technologies and frameworks
+-  Looking to collaborate on open-source projects
+-  Always open to interesting discussions about technology
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/NibinBijuCheriyan">
@@ -80,14 +80,4 @@ me.say_hi()
   </a>
 </p>
 
-## 🎵 Currently Listening To
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Nibin&cover_image=true&theme=novatorem">
-</div>
-
----
-
-<p align="center">
-  <img src="https://github.com/NibinBijuCheriyan/NibinBijuCheriyan/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
