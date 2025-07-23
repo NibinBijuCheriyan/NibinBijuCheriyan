@@ -33,7 +33,7 @@ me.say_hi()
 ## 🛠️ Technologies & Tools
 
 <!-- Programming Languages -->
-![Golang](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
