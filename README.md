@@ -45,16 +45,7 @@ me.say_hi()
 
 >
 
-##  Featured Projects
 
-<div align="center">
-  <a href="https://github.com/NibinBijuCheriyan/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NibinBijuCheriyan&repo=project1&theme=dark" />
-  </a>
-  <a href="https://github.com/NibinBijuCheriyan/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NibinBijuCheriyan&repo=project2&theme=dark" />
-  </a>
-</div>
 
 ##  Current Goals
 
@@ -66,11 +57,11 @@ me.say_hi()
 ##  Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/NibinBijuCheriyan">
+  <a href="https://www.linkedin.com/in/nibin-biju-cheriyan-59a71b333/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="mailto:nibin00077@gmail.com">
+  <a href="nibin00077@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
