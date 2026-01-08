@@ -13,7 +13,7 @@
     <a href="#connect">Contact</a>
   </p>
 </div>
----
+
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me
 Welcome to my profile! I am a **versatile Developer** who thrives at the intersection of low-level systems and high-level business logic. 🌉
@@ -21,7 +21,6 @@ Welcome to my profile! I am a **versatile Developer** who thrives at the interse
 - 🚀 Passionate about building scalable backends and automating repetitive workflows to save time and resources.
 - 🌐 Proficient in modern web technologies, creating seamless user experiences from the server to the browser.
 - 🛠️ Currently exploring advanced **workflow orchestration** and **distributed systems**.
----
 <!-- Tech Stack Section -->
 <h2 align="center" id="tech-stack">⚡ Tech Stack</h2>
 <div align="center">
@@ -48,33 +47,35 @@ Welcome to my profile! I am a **versatile Developer** who thrives at the interse
     </tr>
   </table>
 </div>
----
 <!-- GitHub Analytics Section -->
 <h2 align="center" id="github-analytics">📈 GitHub Analytics</h2>
 <div align="center">
   <!-- Stats Card -->
   <a href="https://github.com/nibinbijucheriyan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nibin's Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NibinBijuCheriyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nibin's Stats" />
   </a>
   
   <!-- Top Languages Card -->
   <a href="https://github.com/nibinbijucheriyan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibinBijuCheriyan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 <br/>
-<!-- Snake Animation (Needs GitHub Action to work) -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME_HERE/YOUR_USERNAME_HERE/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NibinBijuCheriyan/NibinBijuCheriyan/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NibinBijuCheriyan/NibinBijuCheriyan/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/NibinBijuCheriyan/NibinBijuCheriyan/output/github-snake.svg">
+  </picture>
 </div>
----
 <!-- Footer Section -->
 <h2 align="center" id="connect">📫 Connect with Me</h2>
 <div align="center">
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:nibinbijucheriyan06@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
+  <a href="https://www.linkedin.com/in/nibin-biju-cheriyan-59a71b333/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
