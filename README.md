@@ -60,7 +60,6 @@ Welcome to my profile! I am a **versatile Developer** who thrives at the interse
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibinBijuCheriyan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
-<br/>
 <!-- Snake Animation -->
 <div align="center">
   <picture>
