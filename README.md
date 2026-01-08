@@ -50,14 +50,13 @@ Welcome to my profile! I am a **versatile Developer** who thrives at the interse
 <!-- GitHub Analytics Section -->
 <h2 align="center" id="github-analytics">📈 GitHub Analytics</h2>
 <div align="center">
-  <!-- Stats Card (Simplified) -->
+  <!-- Streak Stats (Switched to Demolab - Faster & More Reliable) -->
   <a href="https://github.com/NibinBijuCheriyan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NibinBijuCheriyan&show_icons=true&theme=tokyonight&hide_border=true" alt="Nibin's Stats" />
+    <img src="https://streak-stats.demolab.com?user=NibinBijuCheriyan&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
   </a>
-  
-  <!-- Top Languages Card -->
+  <!-- Top Languages (Keeping the working Mirror) -->
   <a href="https://github.com/NibinBijuCheriyan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibinBijuCheriyan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NibinBijuCheriyan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
   </a>
 </div>
 <!-- Snake Animation -->
