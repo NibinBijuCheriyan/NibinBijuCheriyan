@@ -50,9 +50,9 @@ Welcome to my profile! I am a **versatile Developer** who thrives at the interse
 <!-- GitHub Analytics Section -->
 <h2 align="center" id="github-analytics">📈 GitHub Analytics</h2>
 <div align="center">
-  <!-- Stats Card -->
+  <!-- Stats Card (Simplified) -->
   <a href="https://github.com/NibinBijuCheriyan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NibinBijuCheriyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nibin's Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NibinBijuCheriyan&show_icons=true&theme=tokyonight&hide_border=true" alt="Nibin's Stats" />
   </a>
   
   <!-- Top Languages Card -->
