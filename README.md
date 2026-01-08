@@ -3,7 +3,7 @@
   <!-- Header & Typing Animation -->
   <h1>Hi there! I'm Nibin Biju Cheriyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
-  <a href="https://github.com/nibinbijucheriyan">
+  <a href="https://github.com/NibinBijuCheriyan">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;System+Programmer;Business+Automation+Specialist;Open+Source+Contributor" alt="Typing SVG" />
   </a>
   <p align="center">
@@ -51,12 +51,12 @@ Welcome to my profile! I am a **versatile Developer** who thrives at the interse
 <h2 align="center" id="github-analytics">📈 GitHub Analytics</h2>
 <div align="center">
   <!-- Stats Card -->
-  <a href="https://github.com/nibinbijucheriyan">
+  <a href="https://github.com/NibinBijuCheriyan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NibinBijuCheriyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nibin's Stats" />
   </a>
   
   <!-- Top Languages Card -->
-  <a href="https://github.com/nibinbijucheriyan">
+  <a href="https://github.com/NibinBijuCheriyan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibinBijuCheriyan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
@@ -72,7 +72,7 @@ Welcome to my profile! I am a **versatile Developer** who thrives at the interse
 <!-- Footer Section -->
 <h2 align="center" id="connect">📫 Connect with Me</h2>
 <div align="center">
-  <a href="mailto:nibinbijucheriyan06@gmail.com.com">
+  <a href="mailto:NibinBijuCheriyan06@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nibin-biju-cheriyan-59a71b333/">
