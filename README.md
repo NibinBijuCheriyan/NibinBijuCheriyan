@@ -15,14 +15,14 @@
 </div>
 
 <!-- About Me Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me
-Welcome to my profile! I am a **versatile Developer** who thrives at the intersection of low-level systems and high-level business logic. 🌉
-- 💻 I bridge the gap between **complex system coding** (C/C++, Go) and **business process automation** (Zoho, n8n).
-- 🚀 Passionate about building scalable backends and automating repetitive workflows to save time and resources.
-- 🌐 Proficient in modern web technologies, creating seamless user experiences from the server to the browser.
-- 🛠️ Currently exploring advanced **workflow orchestration** and **distributed systems**.
+##  About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Welcome to my profile! I am a **versatile Developer** who thrives at the intersection of low-level systems and high-level business logic. 
+-  I bridge the gap between **complex system coding** (C/C++, Go) and **business process automation** (Zoho, n8n).
+-  Passionate about building scalable backends and automating repetitive workflows to save time and resources.
+-  Proficient in modern web technologies, creating seamless user experiences from the server to the browser.
+-  Currently exploring advanced **workflow orchestration** and **distributed systems**.
 <!-- Tech Stack Section -->
-<h2 align="center" id="tech-stack">⚡ Tech Stack</h2>
+<h2 align="center" id="tech-stack"> Tech Stack</h2>
 <div align="center">
   <table align="center" style="border: none;">
     <tr>
@@ -48,7 +48,7 @@ Welcome to my profile! I am a **versatile Developer** who thrives at the interse
   </table>
 </div>
 <!-- GitHub Analytics Section -->
-<h2 align="center" id="github-analytics">📈 GitHub Analytics</h2>
+<h2 align="center" id="github-analytics"> GitHub Analytics</h2>
 <div align="center">
   
   <!-- Top Languages (Keeping the working Mirror) -->
@@ -65,7 +65,7 @@ Welcome to my profile! I am a **versatile Developer** who thrives at the interse
   </picture>
 </div>
 <!-- Footer Section -->
-<h2 align="center" id="connect">📫 Connect with Me</h2>
+<h2 align="center" id="connect"> Connect with Me</h2>
 <div align="center">
   <a href="mailto:NibinBijuCheriyan06@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
