@@ -67,22 +67,6 @@
   <img src="https://img.shields.io/badge/⬢_Full_Stack_Developer-1a1b27?style=for-the-badge&logoColor=white" />
 </div>
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=450&lines=Featured+Projects&repeat=false" alt="Featured Projects" />
-  <p><i>Intelligent systems and automation solutions currently in production.</i></p>
-  <br/>
-  
-  [![AI Workflow Engine](https://github-readme-stats.vercel.app/api/pin/?username=NibinBijuCheriyan&repo=ai-workflow-engine&theme=tokyonight&bg_color=1a1b27&title_color=667eea&icon_color=764ba2&text_color=a9b1d6&border_color=30363d&hide_border=true)](https://github.com/NibinBijuCheriyan)
-  &nbsp;&nbsp;
-  [![Agent Framework](https://github-readme-stats.vercel.app/api/pin/?username=NibinBijuCheriyan&repo=multi-agent-framework&theme=tokyonight&bg_color=1a1b27&title_color=667eea&icon_color=764ba2&text_color=a9b1d6&border_color=30363d&hide_border=true)](https://github.com/NibinBijuCheriyan)
-
-</div>
 
 <br/>
 
@@ -91,13 +75,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=350&lines=GitHub+Analytics&repeat=false" alt="GitHub Analytics" />
-  <br/><br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NibinBijuCheriyan&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=667eea&icon_color=764ba2&text_color=a9b1d6&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" width="48%" align="top" />
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibinBijuCheriyan&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=667eea&text_color=a9b1d6&hide_border=true&langs_count=8" width="40%" align="top" />
-  </p>
   <br/>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NibinBijuCheriyan&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" width="48%" />
@@ -183,9 +160,9 @@
   <p><i>Open to collaborations, AI projects, and innovative automation solutions.</i></p>
   <br/>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-FFFFFF?style=for-the-badge&labelColor=764ba2)](https://nibinbijucheriyan.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-FFFFFF?style=for-the-badge&labelColor=764ba2)](https://nibinbijucheriyan.github.io)
   &nbsp;
-  [![Email](https://img.shields.io/badge/Email-Get_In_Touch-FFFFFF?style=for-the-badge&labelColor=667eea)](mailto:nibinbijucheriyan@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Get_In_Touch-FFFFFF?style=for-the-badge&labelColor=667eea)](mailto:nibinbijucheriyan06@gmail.com)
   &nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-FFFFFF?style=for-the-badge&labelColor=0077B5)](https://linkedin.com/in/nibin-biju-cheriyan)
 
@@ -199,8 +176,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NibinBijuCheriyan&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS&labelColor=667eea" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=NibinBijuCheriyan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
 </div>
 
 <br/>
