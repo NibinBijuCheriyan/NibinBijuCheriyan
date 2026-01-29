@@ -1,193 +1,210 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Nibin%20Biju%20Cheriyan&fontColor=FFFFFF&stroke=667eea&strokeWidth=2"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=667EEA&center=true&vCenter=true&width=750&lines=Agentic+AI+%26+Workflow+Architect;Business+Automation+Specialist;Multi-Agent+System+Designer;LangChain+%7C+LangGraph+%7C+CrewAI;Building+Intelligent+Automation+Systems;Full-Stack+Developer+%7C+Systems+Programmer" alt="Typing SVG" />
+  </a>
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Nibin%20Biju%20Cheriyan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Intelligent%20Systems%20%7C%20Automating%20the%20Future&descSize=18&descAlignY=55"/>
+  <br/><br/>
 
-<!-- Typing Animation -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Agentic+AI+%26+Workflow+Architect;Business+Automation+Specialist;Full-Stack+Developer" alt="Typing SVG" /></a>
-</p>
-
-<!-- Profile Badges -->
-<p align="center">
-<a href="https://github.com/NibinBijuCheriyan?tab=followers"><img src="https://img.shields.io/github/followers/NibinBijuCheriyan?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=667eea" alt="GitHub Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=NibinBijuCheriyan&style=for-the-badge&color=667eea&labelColor=1a1b27&label=PROFILE+VIEWS" alt="Profile Views"/>
-<a href="https://github.com/NibinBijuCheriyan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20+-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Repositories"/></a>
-</p>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-764ba2?style=for-the-badge&logo=safari&logoColor=white)](https://nibinbijucheriyan.dev)
+  &nbsp;
+  [![Email](https://img.shields.io/badge/Email-Let's_Connect-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nibinbijucheriyan@gmail.com)
+  &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nibin-biju-cheriyan)
+  &nbsp;
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NibinBijuCheriyan)
 
 </div>
 
----
-
-## About Me
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-> *Building bridges between complex systems and intelligent automation*
-
-I'm a **versatile developer** who thrives at the intersection of **low-level systems** and **high-level business logic**. My passion lies in creating **Agentic AI workflows** that transform how businesses operate.
-
-- **Agentic AI Architect** — Designing autonomous agent systems using LangChain, LangGraph & custom frameworks  
-- **Automation Engineer** — Building end-to-end workflows with n8n, Zoho, and custom integrations  
-- **Systems Developer** — Writing performant code in Go, C/C++, and Python  
-- **Full-Stack Builder** — Creating seamless experiences from server to browser  
-
-### Currently Focused On
-
-```typescript
-const currentFocus = {
-    learning: ["Multi-Agent Orchestration", "Distributed Systems", "RAG Pipelines"],
-    building: ["AI-Powered Automation Tools", "Custom LLM Agents", "Workflow Engines"],
-    exploring: ["LangGraph Studio", "CrewAI", "AutoGen", "Agent Protocols"]
-};
-```
-
-<br clear="right"/>
+<br/>
 
 ---
 
-## Agentic AI & Automation Expertise
+<br/>
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### LLM & Agent Frameworks
-
-![LangChain](https://img.shields.io/badge/LangChain-Expert-1C3C3C?style=for-the-badge&labelColor=1a1b27)
-![LangGraph](https://img.shields.io/badge/LangGraph-Expert-1C3C3C?style=for-the-badge&labelColor=1a1b27)
-![Gemini](https://img.shields.io/badge/Gemini-Advanced-8E75B2?style=for-the-badge&labelColor=1a1b27)
-![OpenAI](https://img.shields.io/badge/OpenAI-Advanced-412991?style=for-the-badge&labelColor=1a1b27)
-![CrewAI](https://img.shields.io/badge/CrewAI-Learning-FF6B6B?style=for-the-badge&labelColor=1a1b27)
-
-</td>
-<td align="center" width="50%">
-
-### Workflow Automation
-
-![n8n](https://img.shields.io/badge/n8n-Expert-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1a1b27)
-![Zoho](https://img.shields.io/badge/Zoho-Advanced-C8202B?style=for-the-badge&logo=zoho&logoColor=white&labelColor=1a1b27)
-![Make](https://img.shields.io/badge/Make-Intermediate-6D00CC?style=for-the-badge&logo=integromat&logoColor=white&labelColor=1a1b27)
-![Zapier](https://img.shields.io/badge/Zapier-Intermediate-FF4A00?style=for-the-badge&logo=zapier&logoColor=white&labelColor=1a1b27)
-
-</td>
-</tr>
-</table>
-
-### Key Capabilities
-
-```
-┌───────────────────────────────────────────────────────────────────────────────┐
-│  Multi-Agent Orchestration       │  RAG Pipeline Development                 │
-│  API Integration & Webhooks      │  Custom Tool & Function Calling           │
-│  Prompt Engineering              │  Complex Workflow Design                  │
-│  Vector DB Integration           │  Production Agent Deployment              │
-└───────────────────────────────────────────────────────────────────────────────┘
-```
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=350&lines=About+Me&repeat=false" alt="About Me" />
+  <br/><br/>
+  <p><b><i>"Bridging AI and automation to transform business workflows."</i></b></p>
+  <br/>
+  <p>
+    I am an <b>Agentic AI Architect</b> and <b>Automation Engineer</b>.<br/>
+    My expertise spans from low-level systems programming to high-level AI orchestration,<br/>
+    creating intelligent agents that automate complex business processes.
+  </p>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=764ba2&center=true&vCenter=true&width=280&lines=Current+Focus&repeat=false" alt="Current Focus" />
 </div>
 
----
-
-## Tech Stack
+<br/>
 
 <div align="center">
-
-### Languages & Core
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=go,c,cpp,python,java,typescript,javascript" alt="Languages"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" alt="Frontend"/>
-</p>
-
-### Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase" alt="Backend"/>
-</p>
-
-### DevOps & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,vercel,linux,vscode" alt="DevOps"/>
-</p>
-
+  <table>
+    <tr>
+      <td><b>Multi-Agent Systems</b></td>
+      <td>Designing autonomous agent orchestrations using LangChain, LangGraph, and custom frameworks.</td>
+    </tr>
+    <tr>
+      <td><b>Workflow Automation</b></td>
+      <td>Building end-to-end business automation with n8n, Zoho, and API integrations.</td>
+    </tr>
+    <tr>
+      <td><b>Systems Development</b></td>
+      <td>Writing performant code in Go, C/C++, Python for robust backend systems.</td>
+    </tr>
+    <tr>
+      <td><b>Goal</b></td>
+      <td>Pushing the boundaries of AI-powered automation and intelligent systems.</td>
+    </tr>
+  </table>
 </div>
+
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/⬢_AI_Architect-1a1b27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/⬢_Automation_Engineer-1a1b27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/⬢_Full_Stack_Developer-1a1b27?style=for-the-badge&logoColor=white" />
+</div>
+
+<br/>
 
 ---
 
-## GitHub Analytics
+<br/>
 
 <div align="center">
-
-<!-- GitHub Stats Cards -->
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NibinBijuCheriyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=764ba2&text_color=a9b1d6&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NibinBijuCheriyan&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibinBijuCheriyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=a9b1d6&langs_count=8" alt="Top Languages"/>
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NibinBijuCheriyan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=450&lines=Featured+Projects&repeat=false" alt="Featured Projects" />
+  <p><i>Intelligent systems and automation solutions currently in production.</i></p>
+  <br/>
+  
+  [![AI Workflow Engine](https://github-readme-stats.vercel.app/api/pin/?username=NibinBijuCheriyan&repo=ai-workflow-engine&theme=tokyonight&bg_color=1a1b27&title_color=667eea&icon_color=764ba2&text_color=a9b1d6&border_color=30363d&hide_border=true)](https://github.com/NibinBijuCheriyan)
+  &nbsp;&nbsp;
+  [![Agent Framework](https://github-readme-stats.vercel.app/api/pin/?username=NibinBijuCheriyan&repo=multi-agent-framework&theme=tokyonight&bg_color=1a1b27&title_color=667eea&icon_color=764ba2&text_color=a9b1d6&border_color=30363d&hide_border=true)](https://github.com/NibinBijuCheriyan)
 
 </div>
 
+<br/>
+
 ---
 
-## Contribution Activity
+<br/>
 
 <div align="center">
-
-<!-- Activity Graph -->
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NibinBijuCheriyan&bg_color=1a1b27&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NibinBijuCheriyan/NibinBijuCheriyan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NibinBijuCheriyan/NibinBijuCheriyan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NibinBijuCheriyan/NibinBijuCheriyan/output/github-snake-dark.svg" />
-</picture>
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=350&lines=GitHub+Analytics&repeat=false" alt="GitHub Analytics" />
+  <br/><br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NibinBijuCheriyan&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=667eea&icon_color=764ba2&text_color=a9b1d6&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" width="48%" align="top" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibinBijuCheriyan&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=667eea&text_color=a9b1d6&hide_border=true&langs_count=8" width="40%" align="top" />
+  </p>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NibinBijuCheriyan&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" width="48%" />
+  </p>
 </div>
+
+<br/>
 
 ---
 
-## Connect with Me
+<br/>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=400&lines=Contribution+Activity&repeat=false" alt="Contribution Activity" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NibinBijuCheriyan&bg_color=1a1b27&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="100%" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/NibinBijuCheriyan/NibinBijuCheriyan/output/github-snake-dark.svg" width="100%"/>
+</div>
 
-<p align="center">
-<a href="https://linkedin.com/in/nibin-biju-cheriyan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:nibinbijucheriyan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/NibinBijuCheriyan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<br/>
 
 ---
 
-### Let's Build Something Amazing Together!
+<br/>
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=350&lines=Tech+Arsenal&repeat=false" alt="Tech Arsenal" />
+  
+  <br/><br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=764ba2&center=true&vCenter=true&width=450&lines=AI+%26+Agent+Frameworks+%7C+The+Intelligence&repeat=false" alt="AI & Agent Frameworks" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/LangChain-Expert-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/LangGraph-Expert-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-Advanced-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-Advanced-8E75B2?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/CrewAI-Learning-FF6B6B?style=for-the-badge&logo=ai&logoColor=white">
+  
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=764ba2&center=true&vCenter=true&width=450&lines=Automation+%26+Workflow+%7C+The+Orchestrator&repeat=false" alt="Automation & Workflow" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/n8n-Expert-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Zoho-Advanced-C8202B?style=for-the-badge&logo=zoho&logoColor=white">
+  <img src="https://img.shields.io/badge/Make-Intermediate-6D00CC?style=for-the-badge&logo=integromat&logoColor=white">
+  <img src="https://img.shields.io/badge/Zapier-Intermediate-FF4A00?style=for-the-badge&logo=zapier&logoColor=white">
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=764ba2&center=true&vCenter=true&width=450&lines=Languages+%26+Systems+%7C+The+Foundation&repeat=false" alt="Languages & Systems" />
+  <br/><br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=go,c,cpp,python,java,typescript,javascript" alt="Languages"/>
+  </p>
+
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=764ba2&center=true&vCenter=true&width=450&lines=Full+Stack+Development+%7C+The+Interface&repeat=false" alt="Full Stack Development" />
+  <br/><br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,supabase,firebase" alt="Full Stack"/>
+  </p>
+
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=764ba2&center=true&vCenter=true&width=450&lines=DevOps+%26+Tools+%7C+The+Infrastructure&repeat=false" alt="DevOps & Tools" />
+  <br/><br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,docker,vercel,linux,vscode" alt="DevOps"/>
+  </p>
+  
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=400&lines=Let's+Build+Together&repeat=false" alt="Let's Build Together" />
+  <p><i>Open to collaborations, AI projects, and innovative automation solutions.</i></p>
+  <br/>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-FFFFFF?style=for-the-badge&labelColor=764ba2)](https://nibinbijucheriyan.dev)
+  &nbsp;
+  [![Email](https://img.shields.io/badge/Email-Get_In_Touch-FFFFFF?style=for-the-badge&labelColor=667eea)](mailto:nibinbijucheriyan@gmail.com)
+  &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-FFFFFF?style=for-the-badge&labelColor=0077B5)](https://linkedin.com/in/nibin-biju-cheriyan)
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NibinBijuCheriyan&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS&labelColor=667eea" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NibinBijuCheriyan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer"/>
+</p>
